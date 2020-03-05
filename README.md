@@ -1,3 +1,8 @@
+## Overview
+
+This project is the react tutorial, from the [React website](https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial)
+It was built as the first step to learning how to write in React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
